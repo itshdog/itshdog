@@ -1,7 +1,7 @@
 Hi 👋 My name is Hayden Westphal
 ================================
 
-Developer | Designer | Student
+Developer, Designer, & Student at The University of Iowa
 ------------------------------
 
 I'm a Front-End Developer located in Iowa. I have a serious passion for creating beautiful, sleek, and modern user experiences. A flexible, autonomous student looking to learn more about design and for new experiences building responsive and scalable projects. Motivated to learn from senior engineers while sharing innovative ideas in an environment that values personal growth. Interested in the entire front-end development, but ambitious to try something new!
