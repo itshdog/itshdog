@@ -6,7 +6,7 @@ I'm a Front-End Developer located in Iowa. I have a serious passion for creating
 * 🌍  I'm based in Iowa
 * 🖥️  See my portfolio at [itshdog.com](http://itshdog.com)
 * ✉️  You can contact me at [haydenwestphal@gmail.com](mailto:haydenwestphal@gmail.com)
-* 🚀  I'm currently working on [Spotify Stats](http://itshdog.github.io/spotify-api/)
+* 🚀  I'm currently working on an idle game in React
 * 🧠  I'm learning ReactJS, APIs, C#, & Unity
 
 ### Skills
