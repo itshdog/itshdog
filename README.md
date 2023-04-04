@@ -1,6 +1,3 @@
-Hayden Westphal
-================================
-
 ### Skills
 
 <p align="left">
