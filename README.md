@@ -1,13 +1,5 @@
-Hi 👋 My name is Hayden Westphal
+Hayden Westphal
 ================================
-
-I'm a Front-End Developer located in Iowa. I have a serious passion for creating beautiful, sleek, and modern user experiences. A flexible, autonomous student looking to learn more about design and for new experiences building responsive and scalable projects. Motivated to learn from senior engineers while sharing innovative ideas in an environment that values personal growth. Interested in the entire front-end development, but ambitious to try something new!
-
-* 🌍  I'm based in Iowa
-* 🖥️  See my portfolio at [itshdog.com](http://itshdog.com)
-* ✉️  You can contact me at [haydenwestphal@gmail.com](mailto:haydenwestphal@gmail.com)
-* 🚀  I'm currently working on an idle game in React
-* 🧠  I'm learning ReactJS, APIs, C#, & Unity
 
 ### Skills
 
